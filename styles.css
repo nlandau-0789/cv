@@ -6,5 +6,11 @@
 
 html {
     color-scheme: dark;
-    /* background-color: #24292e; */
+    background-color: #24292e;
 }
+
+body {
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
